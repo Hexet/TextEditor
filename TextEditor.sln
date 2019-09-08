@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextEditor", "TextEditor\TextEditor.csproj", "{F68A41E2-B2CD-4B9A-BBF3-22BDA449FF8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{270AB256-2644-43FD-8C20-6725242548C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F68A41E2-B2CD-4B9A-BBF3-22BDA449FF8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F68A41E2-B2CD-4B9A-BBF3-22BDA449FF8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F68A41E2-B2CD-4B9A-BBF3-22BDA449FF8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F68A41E2-B2CD-4B9A-BBF3-22BDA449FF8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{270AB256-2644-43FD-8C20-6725242548C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{270AB256-2644-43FD-8C20-6725242548C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{270AB256-2644-43FD-8C20-6725242548C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{270AB256-2644-43FD-8C20-6725242548C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CC2C952-E69F-4CBC-93EA-4CB75CA35197}
+	EndGlobalSection
+EndGlobal
